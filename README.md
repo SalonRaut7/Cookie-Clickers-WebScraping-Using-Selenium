@@ -11,7 +11,7 @@ This repository contains a Python script that automates gameplay for the Cookie 
 Ensure you have the following installed:
 - Python 3.x
 - Google Chrome or any Chromium-based browser
-- ChromeDriver (Ensure it matches your Chrome version)
+- ChromeDriver (Ensure it matches your Chrome version and download it from this link: https://googlechromelabs.github.io/chrome-for-testing/)
 
 
 ## Installation
